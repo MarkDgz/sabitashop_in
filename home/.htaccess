@@ -1,3 +1,7 @@
+<Files ".secrets_sample">
+    Order allow,deny
+    Deny from all
+</Files>
 <Files ".secrets">
     Order allow,deny
     Deny from all
