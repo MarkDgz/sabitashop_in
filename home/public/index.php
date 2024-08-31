@@ -48,7 +48,6 @@ if ($conn->connect_error) {
     <!-- Charset -->
     <meta charset="UTF-8">
 
-<head>
     <!-- OG: Título de la página -->
     <meta property="og:title" content="¡Obtén el Mejor Hosting con Descuento Exclusivo - Hostinger!">
     <!-- OG: Descripción -->
@@ -69,7 +68,6 @@ if ($conn->connect_error) {
     <meta name="twitter:description" content="Únete a Hostinger con un descuento exclusivo y obtén el mejor hosting para tu sitio web. Rápido, seguro y con soporte 24/7.">
     <!-- Twitter: Imagen -->
     <meta name="twitter:image" content="https://sabitashop.in/images/hostinger-discount.png">
-</head>
   
   
     <link rel="stylesheet" href="styles.css">
