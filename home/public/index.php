@@ -70,7 +70,7 @@ if ($conn->connect_error) {
     <meta name="twitter:image" content="https://sabitashop.in/images/hostinger-discount.png">
   
   
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="assets/css/styles.css">
     <!-- Código de Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=<?= htmlspecialchars($gaTrackingId) ?>"></script>
     <script>
