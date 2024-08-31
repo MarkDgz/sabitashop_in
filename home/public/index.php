@@ -101,7 +101,7 @@ if ($conn->connect_error) {
     <header>
         <h1>¡Obtén el mejor hosting con un descuento exclusivo!</h1>
         <p>Únete a Hostinger a través de mi enlace y disfruta de precios imbatibles.</p>
-        <a href="ENLACE_DE_REFERIDO" class="cta-button">Empieza Ahora</a>
+        <a href="REFER_TAG" class="cta-button">Empieza Ahora</a>
     </header>
 
     <section class="benefits">
