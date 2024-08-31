@@ -134,7 +134,7 @@ if ($conn->connect_error) {
 
     <?php
         // Cerrar conexión a la base de datos
-        // $conn->close();
+        $conn->close();
     ?>
 </body>
 </html>
